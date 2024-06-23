@@ -1,0 +1,9 @@
+appName: orsan-cv 
+
+port: 80
+
+namespace: default
+
+image:
+  name: orsanaw/cv-as-a-cont
+  tag: v2

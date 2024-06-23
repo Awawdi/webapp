@@ -1,0 +1,10 @@
+# Chart.yaml
+apiVersion: v2
+name: orsan-cv
+version: 1.0.0
+appVersion: v2 
+description: A Helm chart for deploying orsan-cv as a containerized application
+maintainers:
+  - name: Orsan
+    email: orsan.awawdi@gmail.com
+type: application 
